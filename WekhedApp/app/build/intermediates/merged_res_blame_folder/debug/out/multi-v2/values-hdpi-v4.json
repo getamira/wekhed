@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/mani/.gradle/caches/transforms-3/16349600783fa4c0732e670111179c78/transformed/appcompat-1.2.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

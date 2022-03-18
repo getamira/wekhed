@@ -1,0 +1,4 @@
+#Wed Mar 16 17:10:59 IRST 2022
+base.0=/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

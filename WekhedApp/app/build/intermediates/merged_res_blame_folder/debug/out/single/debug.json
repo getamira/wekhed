@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_logo_02.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_logo_02.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_logo_02.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_logo_02.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/layout_activity_splash.xml.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/navigation_nav_graph.xml.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/src/main/res/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_logo_02.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_logo_02.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_logo3.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/src/main/res/mipmap-xxxhdpi/ic_logo3.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_logo3_foreground.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/src/main/res/mipmap-xhdpi/ic_logo3_foreground.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/layout_activity_connection_failed.xml.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/src/main/res/layout/activity_connection_failed.xml"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_logo3_foreground.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/src/main/res/mipmap-xxhdpi/ic_logo3_foreground.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_logo_01.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_logo_01.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_logo_01.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_logo_01.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_logo3_round.xml.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/src/main/res/mipmap-anydpi-v26/ic_logo3_round.xml"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_logo_02.xml.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_logo_02.xml"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_logo_01.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_logo_01.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_logo3_round.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/src/main/res/mipmap-hdpi/ic_logo3_round.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_logo_02.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_logo_02.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_logo3_foreground.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/src/main/res/mipmap-mdpi/ic_logo3_foreground.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_logo3.xml.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/src/main/res/mipmap-anydpi-v26/ic_logo3.xml"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_logo3_foreground.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/src/main/res/mipmap-hdpi/ic_logo3_foreground.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_logo3.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/src/main/res/mipmap-xxhdpi/ic_logo3.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_logo_01.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_logo_01.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_logo3.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/src/main/res/mipmap-mdpi/ic_logo3.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/font_vazir.ttf.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/src/main/res/font/vazir.ttf"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_logo3.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/src/main/res/mipmap-hdpi/ic_logo3.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_logo_01.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_logo_01.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_logo3_foreground.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/src/main/res/mipmap-xxxhdpi/ic_logo3_foreground.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_logo_02.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_logo_02.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_logo3_round.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/src/main/res/mipmap-xxxhdpi/ic_logo3_round.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_logo_02.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_logo_02.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_logo3_round.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/src/main/res/mipmap-xhdpi/ic_logo3_round.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_logo3_round.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/src/main/res/mipmap-xxhdpi/ic_logo3_round.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_logo3.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/src/main/res/mipmap-xhdpi/ic_logo3.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_logo_01.xml.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_logo_01.xml"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_logo3_round.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/src/main/res/mipmap-mdpi/ic_logo3_round.png"
+    },
+    {
+        "merged": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_logo_01.png.flat",
+        "source": "/home/mani/AndroidStudioProjects/WekhedApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_logo_01.png"
+    }
+]
