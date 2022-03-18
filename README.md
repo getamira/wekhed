@@ -1,2 +1,2 @@
 # wekhed
-wekhed social network
+[Wekhed](https://wekhed.ir) android client
